@@ -1,0 +1,52 @@
+h1 {
+    color:orange;
+    font-size:30px}
+
+h2 {color:black;
+    text-decoration:underline}
+
+h3  {color:#ff7300;
+    font-size:25px}
+
+h4  {color:white;}
+
+*{box-sizing:border-box;
+    margin: 0;
+    padding: 0;}
+
+body {font-size: 15px;
+line-height:40px}
+
+p {margin-bottom:10px;
+    line-height:30px}
+
+a {color:orange}
+
+article {
+        background-color: #e8e6e3;
+        border: 10px solid black;
+        clear:both;
+        padding: 0 10pc 0 20px;}
+
+footer {
+        background-color: black;
+        border: 8px solid orange;
+        clear:both;
+        padding: 0 10pc 0 250px;
+}
+
+header {
+    border: 8px solid orange;
+    font-size:30px;
+    background-color: black;
+    color: #ffffff;
+    text-decoration-line:underline
+}
+
+
+header a {margin-right:25px;}
+
+header a {color:orange}
+
+header a:hover {color:white}
+
