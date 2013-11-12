@@ -39,12 +39,13 @@ header {
     border: 8px solid orange;
     font-size:30px;
     background-color: black;
+    padding: 0 10pc 0 20px;
     color: #ffffff;
     text-decoration-line:underline
 }
 
 
-header a {margin-right:25px;}
+header a {margin-right:30px;}
 
 header a {color:orange}
 
