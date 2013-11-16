@@ -24,22 +24,23 @@ a {color:orange}
 
 article {
         background-color: #e8e6e3;
-        border: 10px solid black;
+        border: 25px solid black;
         clear:both;
-        padding: 0 10pc 0 20px;}
+        padding: 0 10pc 0 25px;}
 
 footer {
         background-color: black;
-        border: 8px solid orange;
+        font-size: 20px;
+        border: 15px solid orange;
         clear:both;
-        padding: 0 10pc 0 250px;
+        padding: 0 0pc 0 0px;
 }
 
 header {
-    border: 8px solid orange;
+    border: 15px solid orange;
     font-size:30px;
     background-color: black;
-    padding: 0 10pc 0 20px;
+    padding: 0 0pc 0 0px;
     color: #ffffff;
     text-decoration-line:underline
 }
