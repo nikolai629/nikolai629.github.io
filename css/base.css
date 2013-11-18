@@ -2,7 +2,9 @@ h1 {
     color:orange;
     font-size:30px}
 
-h2 {color:black;
+
+h2 {text-align:center;
+    color:black;
     text-decoration:underline}
 
 h3  {color:#ff7300;
@@ -13,6 +15,8 @@ h4  {color:white;}
 *{box-sizing:border-box;
     margin: 0;
     padding: 0;}
+
+h5 {text-align:center;}
 
 body {font-size: 18px;
 line-height: 45px}
@@ -29,6 +33,7 @@ article {
         padding: 0 3pc 0 30px;}
 
 footer {
+        text-align:center;
         background-color: black;
         font-size: 20px;
         border: 15px solid orange;
@@ -38,6 +43,7 @@ footer {
 
 
 header {
+    text-align:center;
     border: 15px solid orange;
     font-size:30px;
     background-color: black;
