@@ -14,8 +14,8 @@ h4  {color:white;}
     margin: 0;
     padding: 0;}
 
-body {font-size: 15px;
-line-height:40px}
+body {font-size: 18px;
+line-height: 45px}
 
 p {margin-bottom:10px;
     line-height:30px}
@@ -24,9 +24,9 @@ a {color:orange}
 
 article {
         background-color: #e8e6e3;
-        border: 25px solid black;
+        border: 20px solid black;
         clear:both;
-        padding: 0 10pc 0 25px;}
+        padding: 0 3pc 0 30px;}
 
 footer {
         background-color: black;
@@ -35,6 +35,7 @@ footer {
         clear:both;
         padding: 0 0pc 0 0px;
 }
+
 
 header {
     border: 15px solid orange;
