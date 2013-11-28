@@ -12,6 +12,10 @@ h3  {color:#ff7300;
 
 h4  {color:white;}
 
+h5 {color: #ff7300;
+    font-weight:bold;
+    font-size: 20px}
+
 *{box-sizing:border-box;
     margin: 0;
     padding: 0;}
